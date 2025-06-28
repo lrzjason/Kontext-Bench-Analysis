@@ -1,6 +1,6 @@
 # Instruction Analysis Results
 
-## Top 20 Most Frequent Words
+## Top 50 Most Frequent Words
 - the: 935
 - a: 708
 - this: 327
@@ -21,8 +21,38 @@
 - turn: 88
 - style: 78
 - art: 78
+- change: 75
+- text: 59
+- photo: 58
+- an: 58
+- replace: 56
+- it: 53
+- at: 41
+- using: 40
+- dog: 36
+- up: 35
+- object: 34
+- her: 34
+- out: 33
+- says: 33
+- him: 33
+- middle: 32
+- forest: 31
+- hat: 31
+- that: 31
+- all: 30
+- real: 30
+- character: 30
+- zoom: 29
+- table: 29
+- words: 29
+- red: 28
+- its: 26
+- from: 26
+- sitting: 25
+- cowboy: 25
 
-## Top 20 Most Frequent Bigrams
+## Top 50 Most Frequent Bigrams
 - is now: 115
 - of a: 106
 - in the: 102
@@ -43,8 +73,38 @@
 - make the: 50
 - of this: 48
 - with a: 45
+- make this: 38
+- using this: 35
+- photo of: 34
+- this image: 34
+- art of: 33
+- the middle: 31
+- man is: 29
+- the image: 27
+- the words: 27
+- to the: 25
+- a real: 25
+- a cowboy: 23
+- turn the: 22
+- the word: 22
+- cowboy hat: 22
+- style make: 22
+- zoom out: 21
+- a small: 21
+- in this: 21
+- the dog: 21
+- the background: 20
+- this object: 20
+- make art: 20
+- that says: 19
+- middle of: 17
+- at the: 17
+- the cat: 16
+- image of: 16
+- all the: 16
+- make her: 16
 
-## Top 20 Most Frequent Trigrams
+## Top 50 Most Frequent Trigrams
 - turn this into: 53
 - this into a: 46
 - using this style: 31
@@ -65,6 +125,36 @@
 - the text to: 13
 - an image of: 13
 - the man in: 13
+- add a cowboy: 13
+- photo of a: 13
+- of this image: 12
+- is now holding: 12
+- remove all the: 11
+- man in the: 11
+- is now sitting: 11
+- black forest labs: 11
+- on a table: 11
+- of the image: 11
+- image of a: 10
+- this into anime: 10
+- she is now: 10
+- zoom out showing: 10
+- on top of: 10
+- of this man: 10
+- photo of this: 9
+- a real photo: 9
+- middle of a: 9
+- is now wearing: 9
+- on the right: 9
+- remove the man: 8
+- this style create: 8
+- text to say: 8
+- is now on: 8
+- a real image: 8
+- make the man: 8
+- of the man: 8
+- zoom in on: 7
+- in on the: 7
 
 ## Common Instruction Structures (First Word)
 - make: 139
@@ -77,6 +167,46 @@
 - replace: 53
 - this: 35
 - using: 35
+- zoom: 29
+- put: 21
+- give: 20
+- she: 12
+- an: 10
+- place: 9
+- show: 7
+- art: 7
+- create: 6
+- photo: 6
+- edit: 5
+- color: 5
+- recolor: 5
+- have: 4
+- anime: 4
+- photoshop: 4
+- convert: 4
+- my: 4
+- its: 3
+- open: 3
+- rotate: 3
+- write: 3
+- these: 3
+- set: 3
+- enhance: 3
+- there: 2
+- fill: 2
+- pov: 2
+- move: 2
+- shave: 2
+- artwork: 2
+- flip: 2
+- restyle: 2
+- draw: 2
+- he: 2
+- close: 2
+- generate: 2
+- unblur: 2
+- clean: 2
+- every: 1
 
 ## Summary of Observations
 This section would contain a more detailed summary of common patterns, verbs, and phrases identified from the frequency analyses.

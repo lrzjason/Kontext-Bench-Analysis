@@ -62,22 +62,22 @@ def analyze_instructions(input_jsonl_path, output_md_path):
             f.write("# Instruction Analysis Results\n\n")
 
             f.write("## Top 20 Most Frequent Words\n")
-            for word, count in word_counts.most_common(20):
+            for word, count in word_counts.most_common(50):
                 f.write(f"- {word}: {count}\n")
             f.write("\n")
 
             f.write("## Top 20 Most Frequent Bigrams\n")
-            for bigram, count in bigram_counts.most_common(20):
+            for bigram, count in bigram_counts.most_common(50):
                 f.write(f"- {bigram}: {count}\n")
             f.write("\n")
 
             f.write("## Top 20 Most Frequent Trigrams\n")
-            for trigram, count in trigram_counts.most_common(20):
+            for trigram, count in trigram_counts.most_common(50):
                 f.write(f"- {trigram}: {count}\n")
             f.write("\n")
 
             f.write("## Common Instruction Structures (First Word)\n")
-            for word, count in first_word_counts.most_common(10):
+            for word, count in first_word_counts.most_common(50):
                 f.write(f"- {word}: {count}\n")
             f.write("\n")
 

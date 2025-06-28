@@ -25,3 +25,5 @@ The Python script `analysis_instructions.py` was developed to perform a prelimin
 *   **Instruction Starters:** The analysis shows that instructions often begin with verbs like 'make', 'remove', 'turn', 'add', and 'change'.
 
 This analysis provides a basic understanding of the instruction patterns in the Kontext Bench dataset. More advanced Natural Language Processing (NLP) techniques could be employed for a deeper structural and semantic analysis.
+
+*   Full Analysis: https://github.com/lrzjason/Kontext-Bench-Analysis/blob/main/analysis.md
